@@ -1,0 +1,39 @@
+[
+  {
+    "Day": "Monday",
+    "focus": "Chest + Biceps",
+    "exercise": "Bench Press, Incline Dumbbell Press, Cable Flys, Decline Dumbbell Press, Push-Ups, Barbell Curl, Hammer Curl, Preacher Curl, Concentration Curl"
+  },
+  {
+    "Day": "Tuesday",
+    "focus": "Back + Triceps",
+    "exercise": "Deadlift, Pull-Ups, Bent-Over Rows, Lat Pulldown, Seated Cable Row, Skull Crushers, Tricep Dips, Overhead Tricep Extension, Cable Tricep Pushdowns"
+  },
+  {
+    "Day": "Wednesday",
+    "focus": "Legs + Abs",
+    "exercise": "Squats, Lunges, Leg Press, Leg Extensions, Lying Leg Curls, Standing Calf Raises, Hanging Leg Raises, Plank Variations, Russian Twists"
+  },
+  {
+    "Day": "Thursday",
+    "focus": "Chest + Biceps",
+    "exercise": "Weighted Push-Ups, Chest Dips, Dumbbell Flys, Incline Bench Press, Pec Deck Flys, Concentration Curl, Incline Dumbbell Curl, Cable Bicep Curls, Zottman Curls"
+  },
+  {
+    "Day": "Friday",
+    "focus": "Back + Triceps",
+    "exercise": "Lat Pulldown, T-Bar Row, Seated Cable Row, Straight-Arm Pulldown, Dumbbell Shrugs, Overhead Tricep Extension, Close-Grip Bench Press, Diamond Push-Ups, Kickbacks"
+  },
+  {
+    "Day": "Saturday",
+    "focus": "Legs + Abs",
+    "exercise": "Romanian Deadlift, Bulgarian Split Squat, Calf Raises, Goblet Squats, Hip Thrusts, Ab Rollouts, Russian Twists, Bicycle Crunches, Hanging Knee Raises"
+  },
+  {
+    "Day": "Sunday",
+    "focus": "Rest / Recovery",
+    "exercise": "Light cardio, foam rolling, yoga, static stretching, mobility drills, deep breathing, hydration, walking, active recovery sleep"
+  }
+]
+
+      

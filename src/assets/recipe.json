@@ -1,0 +1,1020 @@
+{
+    "title": "Pre & Workout Post Meals",
+    "sections": {
+        "introduction_and_tips": {
+            "title": "Fueling for Success",
+            "content": "Knowing what to eat, and when to eat can be a challenge. As a college student, it’s hard to find the time to make food, let alone look for recipes. This cookbook was put together by USU senior dietetic students for students. We hope that whether you are part of an athletic team or just hitting the gym to improve your health, that you find something that helps you perform your best and fuels you for success!",
+            "macronutrients": {
+                "definition": "Food is composed of macronutrients and micronutrients. Macronutrients, often referred to as macros, are carbohydrates, protein, and fat. Micronutrients are vitamins and minerals, but we won’t talk much about them here.",
+                "carbohydrates": "Carbohydrates, are the body’s main source of fuel. Because of this, diets low in carbohydrates leave people feeling tired and not able to physically perform as well in the gym, on the court, or on the field. Simple carbs, such as refined grains and sugar, release energy very quickly. Whole grains and fruit contain more complex carbs and are also a better source of fiber, vitamins, and minerals. They don’t release energy as quickly, meaning they provide a more steady, sustained source of fuel.",
+                "protein": "Protein is the building block of muscle and important to every aspect of our body’s function. Athletes typically focus on protein and try to get as much as they can, but be aware that you don’t need as much protein as you do carbohydrates. Your body has a threshold and can only absorb about 20-40 grams of protein, depending on the person, in one sitting.",
+                "fat": "Fat plays a role in the absorption of certain vitamins and hormone production. When exercise lasts for a long time, the body will switch over to fat as its energy source. It takes the longest to digest out of the three macronutrients, so it’s best not to have a lot of it before a workout. Aim to get your fats from healthy sources like nuts, seeds, avocados, and vegetable oils."
+            },
+            "hydration": "Hydration is an important part of an athlete’s health and performance. Dehydration not only leads to decreased energy and performance, but it can be dangerous. Drink consistently throughout the day and even more when you are working out or competing. Pay attention to the color of your urine--the lighter the better--and how much you are sweating! It’s better to maintain hydration than to become dehydrated and try to rehydrate. Avoid using sports drinks unless your workout/competition is longer than 90 minutes, you sweat heavily or are in the heat.",
+            "pre_workout_fuel": "When your body has the right fuel, you will be able to work out longer and harder! Although everyone is different, a good rule is to have a meal 3-4 hours and a snack 1-2 hours before a workout or competition. A pre-workout meal should be high in carbohydrates and low in protein. Fiber and fat tend to make a meal harder to digest, so try to keep these to a minimum or at least a few hours before an intense workout. A snack before physical activity should be made up of mostly simple carbohydrates and little protein, fat, and fiber. More importantly, listen to your body and learn to recognize when it’s likes to be fueled.",
+            "post_workout_recovery": "Emphasis is often put on a “window of time” when a snack or meal should be eaten after a workout but according to more current research the stress over timing is not needed. Instead focus on having good meals and snacks throughout the day to keep you energized as you go. As mentioned previously, carbohydrates are the body’s preferred source of energy and the carbohydrates you had eaten before and stored as glycogen, are likely gone after an intense workout. To best help you recover, eat something with carbohydrates and combine it with protein in a ratio of 3:1 (or 2:1). An example might be 60 gram of carbs with 20 grams of protein. Protein will aid in recovery to rebuild the tears in your muscles that may have occurred, making them stronger and ready for the next workout. The Academy of Nutrition and Dietetics recommend that “athletes eat anywhere from 1.2 to 2 grams of protein [depending on activity] per kilogram of body weight per day. Although many athletes use shakes and supplements as part of their daily protein intake, whole foods generally provide better overall nutrition and should be a first choice when possible.”"
+        },
+        "recipes": [
+            {
+                "category": "Super Smoothies",
+                "name": "Mango Smoothie",
+                "description": "Smoothies are an amazing \"go to\" snack! Add a splash of orange juice to this one for an extra tropical flavor! Did you know that one cup of diced mango has 100% of your daily need for vitamin C, 35% of vitamin A and 20% of an important B vitamin called folate?",
+                "ingredients": [
+                    "1 cup milk",
+                    "1 cup plain Greek Yogurt",
+                    "1 1/2 cup ice cubes",
+                    "1 banana (if frozen leave out some ice)",
+                    "1 mango (1 cup frozen or chopped)",
+                    "1 tsp. vanilla",
+                    "1 Tbsp. honey"
+                ],
+                "directions": [
+                    "Combine ingredients in blender, blend to desired consistency"
+                ],
+                "nutrition": {
+                    "servings_and_size": "Approx. Four 1 cup servings",
+                    "carbohydrate_g": 24,
+                    "protein_g": 8
+                }
+            },
+            {
+                "category": "Super Smoothies",
+                "name": "Choco Peanut Butter Power Smoothie",
+                "description": "This delicious combination of flavors is a great way to start the day, have on hand as a power snack or end the day with a yummy, healthy treat! Using plain Greek yogurt adds extra protein and helps bring out the chocolate flavor!",
+                "ingredients": [
+                    "1 banana",
+                    "1 Tbsp. unsweetened cocoa powder",
+                    "1 cup Greek yogurt",
+                    "3/4 cup milk",
+                    "1 Tbsp. peanut butter (or other nut butter)"
+                ],
+                "directions": [
+                    "Combine ingredients in blender, blend to desired consistency"
+                ],
+                "nutrition": {
+                    "servings_and_size": "Approx. Three 1 cup servings",
+                    "carbohydrate_g": 23,
+                    "protein_g": 11
+                }
+            },
+            {
+                "category": "Super Smoothies",
+                "name": "Strawberry Banana Smoothie",
+                "description": "Bananas are such a valuable ingredient. They are the secret to a sweet, creamy and nutritious smoothie. Go bananas for this classic combo of strawberry and banana!",
+                "ingredients": [
+                    "2 cups frozen strawberries",
+                    "1 fresh banana, peeled",
+                    "1 cup milk",
+                    "1/3 cup orange juice",
+                    "1/2 cup ice",
+                    "1 Tbsp. honey"
+                ],
+                "optional_ingredients": [
+                    "1 cup Greek yogurt (for a post workout smoothie)"
+                ],
+                "directions": [
+                    "Combine ingredients in blender, blend to desired consistency"
+                ],
+                "nutrition": {
+                    "servings_and_size": "Five 1 cup servings",
+                    "without_yogurt": {
+                        "carbohydrate_g": 16,
+                        "protein_g": 1
+                    },
+                    "with_yogurt": {
+                        "carbohydrate_g": 17,
+                        "protein_g": 5
+                    }
+                }
+            },
+            {
+                "category": "Super Smoothies",
+                "name": "Piña Colada",
+                "description": "Everyday can feel like a tropical paradise with this scrumptious smoothie! Great for a pre workout snack, make it a post workout snack by adding greek yogurt or a protein powder.",
+                "ingredients": [
+                    "1 cup coconut milk",
+                    "1 banana",
+                    "1 cup frozen pineapple",
+                    "1/3 cup frozen mango"
+                ],
+                "optional_ingredients": [
+                    "1 cup Greek yogurt (for post workout smoothie)"
+                ],
+                "directions": [
+                    "Combine ingredients in blender, blend to desired consistency"
+                ],
+                "nutrition": {
+                    "servings_and_size": "Approx four 1 cup servings",
+                    "without_yogurt": {
+                        "carbohydrate_g": 19,
+                        "protein_g": 2
+                    },
+                    "with_yogurt": {
+                        "carbohydrate_g": 21,
+                        "protein_g": 7
+                    }
+                }
+            },
+            {
+                "category": "Super Smoothies",
+                "name": "Green Island Getaway",
+                "description": "For an extra sweet flavor use a frozen, ripe banana. Ripe bananas are perfect for smoothies, so don't throw them out. To make it easier for later use, peel bananas before freezing them in a freezer safe storage bag.",
+                "ingredients": [
+                    "1 cup Greek yogurt",
+                    "2 cups spinach",
+                    "1/2 avocado",
+                    "1 banana",
+                    "1 cup pineapple, chopped",
+                    "1 Tbsp. flax seeds",
+                    "1 cup milk",
+                    "1 Tbsp. honey"
+                ],
+                "directions": [
+                    "Combine ingredients in blender, blend to desired consistency"
+                ],
+                "nutrition": {
+                    "servings_and_size": "Approx. four 1 cup servings",
+                    "carbohydrate_g": 28,
+                    "protein_g": 8
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Cherry Chia Bites",
+                "description": "Chia seeds were a staple food for the ancient Aztec people of Central America. The word \"chia\" directly translates to STRENGTH!! Let these small, beautiful bites fuel your workouts!",
+                "ingredients": [
+                    "1 cup old-fashioned oats",
+                    "1/3 cup chia seeds",
+                    "1/3 cup shredded coconut",
+                    "1/2 cup nut butter",
+                    "1/4 cup ground flax seed",
+                    "1/3 cup dried cherries",
+                    "1/3 cup honey",
+                    "1 tsp. vanilla extract",
+                    "1/3 cup chocolate chips"
+                ],
+                "directions": [
+                    "Mix all the ingredients in a bowl",
+                    "Refrigerate for 1 hour or freeze for 15 minutes",
+                    "Form into 20 one-inch balls"
+                ],
+                "nutrition": {
+                    "yield": "20 energy bites",
+                    "per_bite": {
+                        "carbohydrate_g": 16,
+                        "protein_g": 3
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Chocolate Peanut Butter Bites",
+                "description": "The perfect combo! Chocolate and peanut butter matched with flaxseed is a great tasting energy bite that is a great source of protein, fiber and healthy fats! What else can you ask for?",
+                "ingredients": [
+                    "1 cup old-fashioned oats",
+                    "2/3 cup toasted coconut flakes",
+                    "1/2 cup peanut butter",
+                    "1/2 cup ground flaxseed",
+                    "1/3 cup honey",
+                    "1/4 cup unsweetened cocoa powder",
+                    "1-2 tablespoon chia seeds (optional)",
+                    "1 teaspoon vanilla extract"
+                ],
+                "directions": [
+                    "Mix all the ingredients in a bowl",
+                    "Refrigerate for 1 hour or freeze for 15 minutes",
+                    "Form into 20 one-inch balls"
+                ],
+                "nutrition": {
+                    "yield": "20 energy bites",
+                    "per_bite": {
+                        "carbohydrate_g": 7,
+                        "protein_g": 3
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Lemon Blueberry Bites",
+                "description": "Refreshing and sweet! Lemons are a great source of vitamin C which supports the immune system and enhances the bodies absorption of iron! With these bites you can pump the iron and know that your body is absorbing it too!",
+                "ingredients": [
+                    "1 1/2 cup sliced almonds",
+                    "1/4 cup honey",
+                    "1 Tbsp. lemon juice",
+                    "1 cup oats",
+                    "1/2 cup dried blueberries",
+                    "1/4 cup chia seeds"
+                ],
+                "directions": [
+                    "Blend almonds, lemon juice and honey",
+                    "Add half of the oats and blend until smooth",
+                    "Stir in remaining unblended oats, chia seeds and blueberries",
+                    "Refrigerate for one hour or freeze for 15 minutes",
+                    "Form into 24 one-inch balls"
+                ],
+                "nutrition": {
+                    "yield": "24 bites",
+                    "per_bite": {
+                        "carbohydrate_g": 10,
+                        "protein_g": 3
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Apple Cinnamon Bites",
+                "description": "Apple Pie Spice is a store-bought mixture of ginger, nutmeg, cinnamon, allspice, ginger and cloves. If you don't have this mixture on hand feel free to add a small dash of each of those spices or just the ones you have on hand! Spice it up!",
+                "ingredients": [
+                    "2 cups old-fashioned oats",
+                    "1 tsp. cinnamon",
+                    "1/2 tsp. apple pie spice",
+                    "2/3 cup peanut butter",
+                    "1/4 cup honey",
+                    "1 tsp. vanilla",
+                    "dash of salt",
+                    "1 grated medium-sized apple"
+                ],
+                "directions": [
+                    "Mix all the ingredients in a bowl",
+                    "Refrigerate for 1 hour or freeze for 15 minutes",
+                    "Form into 16 one-inch balls"
+                ],
+                "nutrition": {
+                    "yield": "16 bites",
+                    "per_bite": {
+                        "carbohydrate_g": 15,
+                        "protein_g": 4
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Pumpkin Bites",
+                "description": "Don't wait for the Fall to try these lovely bites. The health benefits of cinnamon, cloves, ginger and nutmeg include reducing inflammation and aiding in digestion.",
+                "ingredients": [
+                    "1 1/4 cup old-fashioned oats",
+                    "1/4 cup ground flaxseed",
+                    "1 Tbsp. chia seeds",
+                    "1 1/2 tsp. ground cinnamon",
+                    "1/2 tsp. ground ginger",
+                    "1/4 tsp. ground nutmeg",
+                    "1/8 tsp. ground cloves",
+                    "A pinch of salt",
+                    "1/2 cup peanut butter",
+                    "1/3 cup canned pumpkin",
+                    "1/4 cup honey",
+                    "1 tsp. vanilla extract",
+                    "1/4 cup mini chocolate chips",
+                    "1/4 shelled pumpkin seeds (pepitas)"
+                ],
+                "directions": [
+                    "Mix all the ingredients in a bowl",
+                    "Refrigerate for 1 hour or freeze for 15 minutes",
+                    "Form into 14 one-inch balls"
+                ],
+                "nutrition": {
+                    "yield": "20 energy bites",
+                    "per_bite": {
+                        "carbohydrate_g": 11,
+                        "protein_g": 3
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Peanut Butter Trail Mix",
+                "description": "Peanut butter is a college student's best friend! Use whatever type of chocolate chip floats your boat, whether it's milk, semi-sweet, or dark.",
+                "ingredients": [
+                    "2 cups almonds",
+                    "1 cup peanuts",
+                    "1/2 cup peanut butter chips",
+                    "1/2 cup chocolate chips",
+                    "1/2 cup banana chips"
+                ],
+                "directions": [
+                    "Mix all the ingredients together",
+                    "Store in a sealed bag or mason jar"
+                ],
+                "nutrition": {
+                    "yield": "~Seventeen 1/4 C servings",
+                    "per_1_4_cup_serving": {
+                        "carbohydrate_g": 15,
+                        "protein_g": 8
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Savory Seed Mix",
+                "description": "If you're looking for a savory flavor that packs a spicy kick this savory seed mix is for you! The seeds in this recipe are a great source of protein, fiber, B vitamins and vitamin E. For a less spicy mix cut back on the cayenne pepper.",
+                "ingredients": [
+                    "2 cups almonds",
+                    "1/2 cup shelled pumpkin seeds",
+                    "1/4 cup shelled sunflower seeds",
+                    "1/2 cup popcorn",
+                    "2 cups mini pretzels",
+                    "1/4 tsp cayenne pepper",
+                    "1 tsp. garlic powder",
+                    "1 tsp. onion powder"
+                ],
+                "directions": [
+                    "Mix all ingredients together",
+                    "Store in a sealed bag or mason jar"
+                ],
+                "nutrition": {
+                    "yield": "~Thirteen 1/2 C servings",
+                    "per_1_2_cup_serving": {
+                        "carbohydrate_g": 12,
+                        "protein_g": 6
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "The Cereal Lover Mix",
+                "description": "The perfect mix of crunchy and sweet! Use your favorite cereal or switch out the dried fruit for another yummy option. This is a perfect energy on the go and a great pre workout snack option.",
+                "ingredients": [
+                    "1/2 cup bran flakes",
+                    "1/2 cup shredded wheat",
+                    "1/2 cup rice chex",
+                    "3/4 cup granola",
+                    "1 cup cashews",
+                    "1/4 cup dried cherries",
+                    "1/4 cup dried blueberries"
+                ],
+                "directions": [
+                    "Mix all the ingredients together",
+                    "Store in a sealed bag or mason jar"
+                ],
+                "nutrition": {
+                    "yield": "~Fifteen 1/4 C servings",
+                    "per_1_4_cup_serving": {
+                        "carbohydrate_g": 9,
+                        "protein_g": 2
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Avocado Toast",
+                "description": "The iconic avocado toast! Avocados are an awesome source of healthy fats to help keep you full and give you energy; however, a higher fat meal isn’t ideal before a workout. Consider having this one post-workout with one of the sources of added protein listed below.",
+                "ingredients": [
+                    "1/2 avocado",
+                    "lime juice",
+                    "salt and pepper",
+                    "1 slice whole wheat toast"
+                ],
+                "directions": [
+                    "Slice avocado in half lengthwise. Cut one of the halves lengthwise into 4 or 5 thin slices. You can store the other half of the avocado for later by squeezing some lime over it and sticking it in the fridge.",
+                    "Toast a slice of whole grain bread.",
+                    "Lay avocado slices across whole grain bread, squeeze some lime over the top, and give it a dash of salt and pepper.",
+                    "To make this recipe good for post-workout, it needs a good protein source. You can top it with an egg (any style), cottage cheese, or pumpkin seeds."
+                ],
+                "nutrition": {
+                    "without_protein_source": {
+                        "carbohydrate_g": 32,
+                        "protein_g": 7
+                    },
+                    "with_an_egg": {
+                        "carbohydrate_g": 32,
+                        "protein_g": 14
+                    },
+                    "with_1_2_cup_cottage_cheese": {
+                        "carbohydrate_g": 37,
+                        "protein_g": 19
+                    },
+                    "with_1_4_cup_pumpkin_seeds": {
+                        "carbohydrate_g": 36,
+                        "protein_g": 15
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Banana PB Wrap",
+                "description": "This is another quick grab and go post workout snack. This is a good example of how easy a workout snack can be. Grab a food that contains carbohydrates and add some protein!",
+                "ingredients": [
+                    "Whole-wheat tortilla",
+                    "2 Tbsp. peanut butter",
+                    "1/2 medium banana cut in slices",
+                    "1. Tbsp. chia seeds"
+                ],
+                "directions": [
+                    "Spread peanut butter on tortilla",
+                    "Arrange banana slices on peanut butter and sprinkle with chia seeds",
+                    "Roll into a wrap and enjoy."
+                ],
+                "nutrition": {
+                    "per_wrap": {
+                        "carbohydrate_g": 51,
+                        "protein_g": 15
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Meat and Cheese Wrap",
+                "description": "This wrap, combined with a cold glass of chocolate milk or some fruit, makes a great post-workout meal. Make several of these at the beginning of the week and eat them for the next 3 or 4 days. They’re perfect for an on-the-go day!",
+                "ingredients": [
+                    "1 whole wheat tortilla",
+                    "5 slices thinly-sliced turkey",
+                    "1 Tbsp. shredded cheese",
+                    "1 Tbsp. jalapeno cream cheese",
+                    "Handful of baby spinach leaves",
+                    "5 cherry tomatoes"
+                ],
+                "directions": [
+                    "Spread cream cheese on tortilla",
+                    "Place sliced turkey and shredded cheese on cream cheese",
+                    "Slice cherry tomatoes in half top wrap with them, add spinach",
+                    "Roll into a wrap and enjoy"
+                ],
+                "nutrition": {
+                    "per_wrap": {
+                        "carbohydrate_g": 36,
+                        "protein_g": 22
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "BBQ Chicken Wrap",
+                "description": "Here’s another fun post-workout meal where you can make several in advance and take them on the go. Make sure to have it with some chocolate milk or fruit to meet a 2:1 ratio of carbs to protein.",
+                "ingredients": [
+                    "1 whole wheat tortilla",
+                    "1/3 cup shredded chicken",
+                    "1 Tbsp. barbecue sauce",
+                    "1 Tbsp. shredded cheese",
+                    "1 Tbsp. finely chopped onion",
+                    "1/4 cup romaine lettuce",
+                    "5 cherry tomatoes",
+                    "Cilantro (optional)"
+                ],
+                "extra_components": [
+                    {
+                        "name": "Greek Yogurt Ranch",
+                        "ingredients": [
+                            "2 Tbsp. Plain Greek yogurt",
+                            "1 tsp. ranch dressing mix"
+                        ]
+                    }
+                ],
+                "directions": [
+                    "Mix shredded chicken with barbecue sauce. Spread on tortilla.",
+                    "Sprinkle cheese and onion on top of chicken.",
+                    "Slice cherry tomatoes in half and sprinkle on chicken. Add romaine lettuce.",
+                    "Start to roll the wrap from the edge. When you’re halfway, fold the ends down, and continue to roll.",
+                    "Combine Greek yogurt with ranch mix. Serve as dipping sauce for the wrap."
+                ],
+                "nutrition": {
+                    "per_wrap": {
+                        "carbohydrate_g": 45,
+                        "protein_g": 30
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Power Packed Oatmeal",
+                "description": "Oats are a great whole grain. Whole grains act as complex carbs that can help you feel full longer. For less thick oatmeal add more milk. For more power packing, feel free to add nuts, flax seed or chia seeds.",
+                "ingredients": [
+                    "1/2 cup rolled oats",
+                    "1/2 cup milk",
+                    "6 strawberries, chopped",
+                    "2 tsp. honey",
+                    "1/2 tsp. vanilla extract",
+                    "1 pinch salt",
+                    "1/3 cup Greek yogurt",
+                    "1 Tbsp. peanut butter"
+                ],
+                "directions": [
+                    "In a small pot, heat oats, 1/2 cup almond milk, 1/3 cup water, strawberries, honey, vanilla, and salt.",
+                    "Bring to a boil, then reduce to simmer and cook, stirring occasionally, until mixture is thick and oats are plump, 5 to 7 minutes.",
+                    "Remove from heat.",
+                    "Mix it with yogurt to cool.",
+                    "Top oatmeal with peanut butter."
+                ],
+                "nutrition": {
+                    "yield": "two 1 C servings",
+                    "per_cup": {
+                        "carbohydrate_g": 23,
+                        "protein_g": 12
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Fantastic Fruit Dip",
+                "description": "Apples are the second most consumed fruit in the United States. This fruit is known for having a good source of dietary fiber and vitamin C with the peel included so don’t toss it out. Approximately, each medium sized apple gives 4.4 grams of fiber.",
+                "ingredients": [
+                    "1 medium - large apple",
+                    "3 Tbsp. peanut butter",
+                    "1/2 cup plain Greek yogurt"
+                ],
+                "directions": [
+                    "Cut apple into slices. Mix peanut butter and yogurt together in small bowl. Dip apple slices into dip and enjoy."
+                ],
+                "nutrition": {
+                    "servings_and_size": "1 medium apple with approx ½ cup dip",
+                    "carbohydrate_g": 38,
+                    "protein_g": 20
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Chicken Salad",
+                "description": "To make it easy, you can buy the precooked frozen diced chicken in most stores. This is also another one of those recipes that plain Greek yogurt works better than vanilla.",
+                "ingredients": [
+                    "2 cups diced cooked chicken",
+                    "1/2 cup plain Greek yogurt",
+                    "1/4 cup canned cranberry sauce",
+                    "1/2 cup chopped celery",
+                    "1/2 cup grapes, cut in half",
+                    "1/4 cup chopped walnuts (optional)"
+                ],
+                "directions": [
+                    "Stir the yogurt and cranberry sauce together in a mixing bowl.",
+                    "Add all the other ingredients. Stir until the cranberry yogurt mix is evenly distributed.",
+                    "Either spread between two slices of bread or pita to make a sandwich, or eat as is with crackers or a spoon. Pack individuals servings into containers and refrigerate."
+                ],
+                "nutrition": {
+                    "yield": "four 1/2 C servings",
+                    "serving_size": "½ cup",
+                    "carbohydrate_g": 11,
+                    "protein_g": 7
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Turkey Stacks",
+                "description": "The apple is both a fun, sweet twist and nutritious. You can trade out the cheddar cheese for another favorite like pepper jack or colby. To make this a good post-workout snack, add a serving of fruit or a glass of chocolate milk!",
+                "ingredients": [
+                    "10 whole grain crackers",
+                    "5 slices thinly-sliced turkey",
+                    "5 thin apple slices",
+                    "5 thin slices cheddar cheese (size of the cracker, about ¼” thick)",
+                    "Mustard (optional)"
+                ],
+                "directions": [
+                    "If using mustard, place a dot on each cracker.",
+                    "Fold turkey slices in four and place on top of cracker.",
+                    "Top turkey with cheddar and apple slices."
+                ],
+                "nutrition": {
+                    "servings_and_size": "5 cracker stacks",
+                    "carbohydrate_g": 15,
+                    "protein_g": 15
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Egg-cellent Snack Muffins",
+                "description": "This recipe is versatile in that you can switch out the ham and vegetables for different breakfast meats and vegetables. Eggs are packed with protein and other nutrients. Make a batch of twelve and eat them throughout the week.",
+                "ingredients": [
+                    "12 eggs",
+                    "1/2 tsp. salt",
+                    "2-3 Tbsp. onion, diced",
+                    "1 cup cooked ham, diced",
+                    "pepper to taste",
+                    "1/4 tsp. garlic powder",
+                    "1/4 cup red bell pepper, diced",
+                    "1/4 cup fresh mushrooms, diced",
+                    "1 cup shredded cheese",
+                    "1/2 cup baby spinach, finely shredded"
+                ],
+                "directions": [
+                    "Preheat oven to 350 degrees F.",
+                    "Spray a 12-cup muffin pan with non-stick cooking spray (the better you spray, the less it will stick!) or use thick muffin liners.",
+                    "In a large mixing bowl, beat eggs. Add in remaining ingredients and mix together.",
+                    "Scoop 1/3 cup of mixture into each muffin liner. Bake for 20-25 minutes or until the center of the muffin is completely cooked."
+                ],
+                "nutrition": {
+                    "yield": "12 muffins",
+                    "per_muffin": {
+                        "carbohydrate_g": 2,
+                        "protein_g": 11
+                    },
+                    "note": "Have one snack muffin with a slice of toast to make it a 2:1 carb to protein post-workout snack."
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Quick Breakfast Sandwich",
+                "description": "Who says breakfast can only be in the morning? This sandwich makes a great post workout snack with the protein you need to refuel and get ready for the next time you hit the gym, field, or wherever you like to move. For more protein you can add a slice of turkey or for more flavor add a fresh tomato.",
+                "ingredients": [
+                    "1 bagel sliced in half",
+                    "1 large fried egg (or scrambled if preferred)",
+                    "Small handful of spinach",
+                    "2 tsp. garlic herb cream cheese",
+                    "2-4 slices avocado"
+                ],
+                "directions": [
+                    "Slice and toast bagels, if desired. Spread cream cheese on bagels.",
+                    "Fry or scramble one large egg.",
+                    "Place egg, spinach and avocado on one side of the bagel and sandwich between the two slices. Enjoy."
+                ],
+                "nutrition": {
+                    "per_sandwich": {
+                        "carbohydrate_g": 32,
+                        "protein_g": 15
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Banana Pancake",
+                "description": "Great post workout snack! Serve with your favorite peanut or nut butter and a cup of chocolate or regular milk to make a better combination of carbohydrate and protein. If you do not have oats on hand, 2 tablespoons of flour will work as well. For fluffier pancakes, add 1 tsp of baking powder.",
+                "ingredients": [
+                    "2 ripe bananas",
+                    "2 eggs",
+                    "1 tsp. vanilla extract",
+                    "1/2 cup quick-cook oats",
+                    "1 tsp. cinnamon"
+                ],
+                "directions": [
+                    "Mash bananas in a large bowl until smooth. Mix in eggs and vanilla until well combined, then mix in oats and cinnamon.",
+                    "Heat a skillet to medium and add in a scoop* of the pancake batter. Smooth out to form an even layer. Cook for about 2-3 minutes until you start to see bubbles releasing from the top of the batter. Flip and cook until the other side is golden brown, about 1-2 minutes.",
+                    "Garnish with peanut butter or your favorite nut butter."
+                ],
+                "nutrition": {
+                    "yield": "4 pancakes",
+                    "per_pancake_with_2_tsp_nut_butter": {
+                        "carbohydrate_g": 31,
+                        "protein_g": 9
+                    },
+                    "note": "* Use 1/2 cup for scooping batter to yield 4 thicker pancakes, use 1/3 cup to yield 6 smaller pancakes."
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Killer Quesadilla",
+                "description": "This isn’t your classic cheese quesadilla. Chopped chicken adds more protein, and pico de gallo gives it a great flavor and texture! If you’re afraid of cooking chicken, you can always find pre-cooked chicken in the lunch meat aisle or in the frozen meat section.",
+                "ingredients": [
+                    "1 whole wheat tortilla",
+                    "2 Tbsp. chopped chicken",
+                    "1/4 cup cheese",
+                    "2 Tbsp. pico de gallo (or salsa of choice)",
+                    "2 Tbsp. chopped green bell pepper"
+                ],
+                "extra_components": [
+                    {
+                        "name": "Greek Yogurt Ranch",
+                        "ingredients": [
+                            "2 Tbsp. Plain greek yogurt",
+                            "1 tsp. ranch dressing mix"
+                        ]
+                    }
+                ],
+                "directions": [
+                    "Mix together chicken, cheese, pico de gallo, and chopped green bell pepper.",
+                    "Place tortilla in a pan on low to medium heat and spread chicken and cheese mixture over one half. Fold the tortilla in half.",
+                    "Heat tortilla until browned on one side and cheese starts to melt (about 1-2 minutes). Flip and brown the other side (about 1-2 minutes).",
+                    "Mix Greek yogurt and ranch mix together. Serve with the quesadilla."
+                ],
+                "nutrition": {
+                    "per_quesadilla": {
+                        "carbohydrate_g": 26,
+                        "protein_g": 28
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Banana Popsicle",
+                "description": "The perfect treat on a hot summer day, or any day you want to feel like your in a tropical paradise. The perfect post-workout snack or post workout dessert!",
+                "ingredients": [
+                    "4 large bananas peeled",
+                    "2 cups vanilla Greek yogurt",
+                    "1/2 cup peanut butter",
+                    "4 wooden popsicle sticks"
+                ],
+                "directions": [
+                    "Cut each banana in half and insert the bottom of each with a wooden popsicle stick, about 1/3 of the way into banana.",
+                    "Place bananas on a parchment paper lined baking sheet.",
+                    "Freeze bananas 30 minutes.",
+                    "Place the vanilla yogurt in a tall pint glass and carefully dip each partially frozen banana into the yogurt to coat leaving 1/2 inch at the bottom uncoated with yogurt. Line yogurt-coated bananas back on the parchment paper and freeze until firm, about 1 hour.",
+                    "Next, microwave the peanut butter until smooth and creamy, about 30-45 seconds. Drizzle peanut butter evenly over frozen yogurt coated bananas then place on the baking sheet to freeze once last time. Freeze until peanut butter is firm, about 30 minutes.",
+                    "Enjoy immediately or wrap each banana in plastic wrap and store in freezer for up to 3 months."
+                ],
+                "nutrition": {
+                    "yield": "Four half banana popsicles",
+                    "per_half_popsicle": {
+                        "carbohydrate_g": 23,
+                        "protein_g": 8
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Citrus Chicken Pasta Salad",
+                "description": "This pasta salad is another great dish you can make and keep in the fridge for a few days. It’s a great post-workout meal, and you can pair it with some fruit or another carbohydrate to bring it up to that 2:1 ratio. If no blender is available, shake dressing ingredients together in a mason jar.",
+                "ingredients": [
+                    "1 cup penne pasta",
+                    "1 cup shredded chicken",
+                    "1 cup baby spinach",
+                    "1 cup cherry tomatoes, halved",
+                    "1/3 cup crumbled feta cheese",
+                    "1/3 cup slivered almonds, toasted"
+                ],
+                "extra_components": [
+                    {
+                        "name": "Dressing",
+                        "ingredients": [
+                            "4 Tbsp. orange juice",
+                            "2 Tbsp. lemon juice",
+                            "3 Tbsp. honey",
+                            "2 tsp. Dijon mustard",
+                            "1/2 tsp. salt",
+                            "1/2 cup olive oil"
+                        ]
+                    }
+                ],
+                "directions": [
+                    "Cook the pasta according to package direction. Drain and rinse with cold water.",
+                    "Place the cooled pasta in a large bowl. Add in the spinach and the halved cherry tomatoes.",
+                    "Add chicken to salad and toss to combine.",
+                    "Sprinkle almonds and feta cheese over the salad.",
+                    "For the dressing: combine all of the ingredients together except for the oil in a blender. Blend until all ingredients are well incorporated. Slowly add in the oil in a steady stream and pulse until combined.",
+                    "Toss the salad with the dressing (to taste; you may not want/need all of it) and enjoy. ONLY toss what you plan on eating as the dressing makes the spinach \"soggy\" for leftovers."
+                ],
+                "nutrition": {
+                    "yield": "Ten 2/3 C servings",
+                    "per_2_3_cup_serving": {
+                        "carbohydrate_g": 25,
+                        "protein_g": 16
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Tuna Sandwich",
+                "description": "Tuna is a good nutritious, budget-friendly protein to make a regular part in your diet! Greek yogurt replaces the mayonnaise in this sandwich to give it more protein. Carrots and celery give it a great texture and color.",
+                "ingredients": [
+                    "2 slices whole wheat bread",
+                    "1 can (5 oz) tuna",
+                    "1/4 cup plain Greek yogurt",
+                    "2 Tbsp. chopped celery",
+                    "2 Tbsp. chopped carrot",
+                    "1 tsp. lemon pepper",
+                    "2 Tbsp. pickle relish (optional)"
+                ],
+                "directions": [
+                    "Mix together tuna, Greek yogurt, celery, carrot, and lemon pepper.",
+                    "Toast two slices of bread.",
+                    "Spread half of the mixture onto the bread and sandwich together"
+                ],
+                "nutrition": {
+                    "per_sandwich": {
+                        "carbohydrate_g": 52,
+                        "protein_g": 25
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Simply Parfait",
+                "description": "When looking for a whole wheat cereal use the ingredient label. Look for cereal that says “whole grain” as the first ingredient. Enjoy this simple recipe with a variety of fruits and nuts.",
+                "ingredients": [
+                    "1/2 cups sliced fresh strawberries",
+                    "3/4 cup whole wheat cereal",
+                    "1 cup Greek yogurt (your choice of flavor)",
+                    "1/2 cup peanuts (optional)"
+                ],
+                "directions": [
+                    "Layer 1/4 cup of cereal in a glass or mason jar",
+                    "Add 2 1/2 tablespoons of the yogurt",
+                    "Add a few strawberry slices",
+                    "Sprinkle some peanuts",
+                    "Repeat the process and finish with a layer of strawberries"
+                ],
+                "nutrition": {
+                    "yield": "Two 1 Cup servings",
+                    "per_cup_serving": {
+                        "carbohydrate_g": 24,
+                        "protein_g": 12
+                    }
+                }
+            },{
+                "category": "Energy on the Go",
+                "name": "High-Protein Egg & Veggie Muffins",
+                "description": "A fantastic meal-prep snack filled with protein from fresh eggs and dietary fiber from vibrant local vegetables. Pair with a slice of whole-wheat toast for the perfect post-workout recovery carb-to-protein ratio.",
+                "ingredients": [
+                    "6 large eggs",
+                    "1/4 cup red bell pepper, finely diced",
+                    "1/4 cup fresh mushrooms or carrots, diced",
+                    "1 cup grated Paneer (or local Amul shredded cheese)",
+                    "1/2 cup fresh baby spinach (Palak), finely shredded"
+                ],
+                "directions": [
+                    "Preheat oven to 180 degrees C (350 degrees F).",
+                    "Grease a 12-cup muffin pan thoroughly with a non-stick oil spray or ghee so they don't stick.",
+                    "In a large mixing bowl, whisk the eggs well. Whisk in the diced vegetables, paneer, and a pinch of salt and pepper.",
+                    "Scoop 1/3 cup of the mixture into each muffin slot. Bake for 20-25 minutes until the centers are completely set."
+                ],
+                "nutrition": {
+                    "yield": "12 muffins",
+                    "per_muffin": {
+                        "carbohydrate_g": 2,
+                        "protein_g": 11
+                    },
+                    "note": "Have one savory snack muffin with a slice of whole-wheat toast to reach an optimal post-workout carb-to-protein recovery combo."
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Quick Breakfast Sandwich",
+                "description": "Who says breakfast food is only for the morning? This sandwich is powered by fresh eggs, spinach, and healthy fats. To boost the protein even further, you can add a slice of grilled chicken breast or grilled paneer instead of western deli cold-cuts.",
+                "ingredients": [
+                    "1 whole-wheat bun or multi-grain bagel, sliced in half",
+                    "1 large egg (fried or scrambled as per preference)",
+                    "Small handful of fresh spinach (Palak) leaves",
+                    "2 tsp. garlic-herb cheese spread or soft paneer spread",
+                    "2-4 thin slices of ripe avocado or fresh tomato"
+                ],
+                "directions": [
+                    "Slice and lightly toast the bun on a tawa. Spread the garlic cheese spread evenly on both sides.",
+                    "Cook one large egg on the tawa using a drop of oil or ghee.",
+                    "Layer the cooked egg, fresh spinach, and avocado/tomato slices between the bun halves. Enjoy fresh."
+                ],
+                "nutrition": {
+                    "per_sandwich": {
+                        "carbohydrate_g": 32,
+                        "protein_g": 15
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Desi Banana Oats Pancake",
+                "description": "An excellent vegetarian post-workout recovery snack! Serve with a tablespoon of peanut butter and a glass of milk to hit your ideal protein targets. If you do not have oats, regular whole wheat flour (atta) works perfectly too.",
+                "ingredients": [
+                    "2 ripe bananas",
+                    "2 eggs (or substitute with 1/4 cup milk + 1 tbsp ground flaxseeds for eggless)",
+                    "1 tsp. vanilla extract",
+                    "1/2 cup quick-cook rolled oats (or whole wheat atta)",
+                    "1 tsp. ground cinnamon (dalchini)"
+                ],
+                "directions": [
+                    "Mash the bananas in a bowl until completely smooth. Whisk in the eggs and vanilla, then stir in the oats and cinnamon.",
+                    "Heat a non-stick pan or tawa over medium heat and pour a small ladle of the batter. Smooth it into an even circle.",
+                    "Cook for 2-3 minutes until bubbles form on top, flip gently, and cook the other side for 1-2 minutes until golden brown.",
+                    "Garnish with a dollop of peanut butter or local honey."
+                ],
+                "nutrition": {
+                    "yield": "4 pancakes",
+                    "per_pancake_with_2_tsp_nut_butter": {
+                        "carbohydrate_g": 31,
+                        "protein_g": 9
+                    },
+                    "note": "Use a 1/2 cup scoop for 4 thick pancakes, or a 1/3 cup scoop to yield 6 smaller, thinner pancakes."
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Spiced Paneer & Chicken Quesadilla",
+                "description": "A protein-packed wrap that replaces processed meats with fresh shredded chicken breast or pan-seared paneer cubes. Accompanied by a refreshing high-protein dip made from fresh thick Indian curd.",
+                "ingredients": [
+                    "1 whole-wheat chapati or multi-grain tortilla",
+                    "4 Tbsp. finely chopped boiled chicken breast (or crumbled paneer)",
+                    "1/4 cup grated cheese (like Amul)",
+                    "2 Tbsp. fresh kachumber salad (diced onions, tomatoes, coriander)",
+                    "2 Tbsp. finely chopped green capsicum"
+                ],
+                "extra_components": [
+                    {
+                        "name": "High-Protein Herb Dip",
+                        "ingredients": [
+                            "2 Tbsp. thick hung curd (Greek yogurt style)",
+                            "1/2 tsp. chaat masala, roasted cumin powder, and mint leaves"
+                        ]
+                    }
+                ],
+                "directions": [
+                    "In a small bowl, mix together the chicken/paneer, cheese, capsicum, and kachumber salad.",
+                    "Place a chapati on a tawa over low-medium heat. Spread the mixture evenly over one half and fold it over.",
+                    "Press down gently and toast until golden-brown and the cheese starts melting (1-2 minutes per side).",
+                    "Whisk the hung curd with the spices and mint. Slice the quesadilla and serve warm alongside the dip."
+                ],
+                "nutrition": {
+                    "per_quesadilla": {
+                        "carbohydrate_g": 26,
+                        "protein_g": 28
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Mango Berry Yogurt Popsicles",
+                "description": "The perfect cooling treat after a intense workout in hot weather. Packed with calcium and high protein from thick local dahi/yogurt and naturally sweetened with seasonal fresh fruits like mangoes or bananas.",
+                "ingredients": [
+                    "2 large ripe bananas or 1 cup sweet mango pulp",
+                    "2 cups thick vanilla or plain dahi (Greek-style curd)",
+                    "1/2 cup creamy peanut butter",
+                    "4 wooden ice-cream sticks"
+                ],
+                "directions": [
+                    "If using bananas, peel and cut them in half, then insert a wooden stick 1/3 of the way into each piece.",
+                    "Place them on a plate lined with butter paper and freeze for 30 minutes.",
+                    "Pour the thick curd into a tall glass. Dip each chilled fruit piece directly into the curd to coat it evenly, leaving a little space near the stick. Return to the freezer for 1 hour.",
+                    "Gently warm the peanut butter in a small bowl until fluid. Drizzle it over the frozen yogurt-coated fruit, and freeze for another 30 minutes until set."
+                ],
+                "nutrition": {
+                    "yield": "Four half-fruit popsicles",
+                    "per_half_popsicle": {
+                        "carbohydrate_g": 23,
+                        "protein_g": 8
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Indian Fish & Pasta Salad",
+                "description": "This refreshing cold salad swaps out western tuna cans for freshly steamed or pan-seared local fish (like Kingfish/Surmai or Rohu/Katla, deboned and flaked) or paneer cubes. It keeps incredibly well in the fridge for simple meal prep.",
+                "ingredients": [
+                    "1 cup durum wheat penne pasta",
+                    "1 cup cooked, flaked local white fish (Surmai/Rohu) or paneer cubes",
+                    "1 cup fresh baby spinach or chopped lettuce",
+                    "1 cup cherry tomatoes, cut into halves",
+                    "1/3 cup crumbled paneer or feta cheese",
+                    "1/3 cup slivered almonds or roasted peanuts"
+                ],
+                "extra_components": [
+                    {
+                        "name": "Zesty Citrus Dressing",
+                        "ingredients": [
+                            "4 Tbsp. fresh orange juice",
+                            "2 Tbsp. fresh lemon juice",
+                            "3 Tbsp. local honey",
+                            "1 tsp. ginger-garlic paste or mustard paste",
+                            "1/2 tsp. salt and black pepper",
+                            "1/4 cup olive oil or cold-pressed mustard oil"
+                        ]
+                    }
+                ],
+                "directions": [
+                    "Boil the pasta according to package instructions until al dente. Drain and rinse with cold water.",
+                    "Transfer the cooled pasta to a large bowl. Toss gently with the spinach, tomatoes, and flaked fish (or paneer).",
+                    "Garnish the top with the almonds/peanuts and crumbled paneer.",
+                    "To make the dressing: Whisk the juices, honey, spices, and oil together in a small jar until fully emulsified.",
+                    "Drizzle the dressing over the salad right before eating so the greens stay crisp."
+                ],
+                "nutrition": {
+                    "yield": "Ten 2/3 cup servings",
+                    "per_2_3_cup_serving": {
+                        "carbohydrate_g": 25,
+                        "protein_g": 16
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "High-Protein Local Fish Sandwich",
+                "description": "A budget-friendly, highly nutritious sandwich utilizing freshly cooked local fish fillets or protein-rich crumbled paneer. Fresh thick curd replaces heavy mayonnaise to maximize the protein and keep it light.",
+                "ingredients": [
+                    "2 slices multi-grain or whole-wheat sandwich bread",
+                    "1 cup cooked, mashed deboned fish (or 1 cup mashed paneer/tofu)",
+                    "1/4 cup thick plain curd (dahi)",
+                    "2 Tbsp. finely chopped cucumber or celery",
+                    "2 Tbsp. finely grated carrot",
+                    "1 tsp. lemon juice and black pepper powder",
+                    "1 tsp. mint chutney (optional, for flavor)"
+                ],
+                "directions": [
+                    "In a bowl, combine your mashed fish or paneer with the thick curd, cucumber, carrot, lemon juice, and black pepper.",
+                    "Toast your two slices of whole-wheat bread on a tawa until crispy.",
+                    "Spread the mint chutney lightly on the bread, layer the filling generously, close the sandwich, and slice."
+                ],
+                "nutrition": {
+                    "per_sandwich": {
+                        "carbohydrate_g": 52,
+                        "protein_g": 25
+                    }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Anar & Strawberry Curd Parfait",
+                "description": "A beautifully layered, calcium-rich recipe featuring seasonal Indian fruits like pomegranate (anar) and bananas, paired with high-fiber whole grain cereals and rich curd.",
+                "ingredients": [
+                    "1/2 cup fresh pomegranate pearls (anar) or sliced strawberries",
+                    "3/4 cup high-fiber muesli or crushed whole-wheat flakes",
+                    "1 cup thick set curd (dahi or sweet mishti doi alternative)",
+                    "2 Tbsp. crushed almonds or walnuts"
+                ],
+                "directions": [
+                    "Take a clean serving glass or small mason jar and drop 1/4 cup of the cereal at the bottom.",
+                    "Spoon 2-3 tablespoons of thick curd directly over the cereal layer.",
+                    "Drop a generous layer of pomegranate pearls and sliced fruits over the curd, followed by a sprinkle of nuts.",
+                    "Repeat the layers once more, finishing with vibrant fruit and nuts on the top. Serve chilled."
+                ],
+                "nutrition": {
+                    "yield": "Two 1-cup servings",
+                    "per_cup_serving": {
+                        "carbohydrate_g": 24,
+                        "protein_g": 12
+                    }
+                }
+            }
+        ]
+    }
+}

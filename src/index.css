@@ -1,0 +1,95 @@
+body{
+
+  background:
+    linear-gradient(40deg, rgb(11, 0, 22) 40%, transparent 90%),
+    linear-gradient(90deg, rgb(34, 0, 34) 40%, transparent 90%),
+    linear-gradient(140deg, rgb(0, 1, 44) 40%, rgb(223, 160, 0) 90%);
+
+  background-repeat: no-repeat;  
+  background-position: center;   
+  background-size: cover;        
+  background-attachment: fixed;   
+  font-family: "Raleway", sans-serif;
+  font-weight:290;
+  color:#fff;
+
+}
+
+h1 {
+  text-align: center;
+  font-weight: 900;
+  font-size: 2.2rem;
+}
+
+.container {
+  padding: 1rem;
+}
+
+input, select, .submit-btn {
+  width: 100%;
+  box-sizing: border-box;
+  font-family: "Raleway", sans-serif;
+  border-radius: 6px;
+  height: 46px; 
+}
+
+input {
+  background: #370075;
+  border: none;
+  color: #ffffff;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+select {
+  padding: 10px;
+  margin: 10px 0;           
+  border: 1px solid #ccc;    
+  background-color: #e2e2e2;
+  font-size: 16px; 
+}
+
+.submit-btn {
+  margin-top: 20px;
+  color: #ffffff;
+  background: #370075;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.card {
+  border: 1px solid #370075;
+  padding: 15px;
+  border-radius: 12px;
+  background: #0707072f;
+  backdrop-filter: blur(10px);
+}
+
+.nav-container {
+  position: fixed;
+  bottom: 20px;          
+  left: 50%;             
+  transform: translateX(-50%); 
+  display: flex;
+  border-radius: 100px;
+  backdrop-filter: blur(10px);
+  background: #1e0030c2;
+  padding: 12px 24px; 
+  width: max-content;
+  max-width: 85%;
+  z-index: 5;
+} 
+
+.nav-container a {
+  text-decoration: none; 
+  color: #ffffff;       
+  padding: 0 10px;
+  font-size: 0.9rem;
+}
