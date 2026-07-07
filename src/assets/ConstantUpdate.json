@@ -1,39 +1,764 @@
 [
   {
     "Day": "Monday",
-    "focus": "Chest + Biceps",
-    "exercise": "Bench Press, Incline Dumbbell Press, Cable Flys, Decline Dumbbell Press, Push-Ups, Barbell Curl, Hammer Curl, Preacher Curl, Concentration Curl"
+    "Focus": "Chest + Biceps + Shoulders",
+    "Sections": [
+      {
+        "SectionName": "Section 1: Heavy Push & Pull Compounds",
+        "Exercises": [
+          {
+            "Exercise": "Barbell Bench Press",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Incline Dumbbell Press",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Barbell Bicep Curls",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Standing Dumbbell Overhead Press",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      },
+      {
+        "SectionName": "Section 2: Volume & Shape Builders",
+        "Exercises": [
+          {
+            "Exercise": "Decline Dumbbell Press",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Incline Dumbbell Bicep Curls",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Cable Chest Flys",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Dumbbell Lateral Raises",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      },
+      {
+        "SectionName": "Section 3: Targeted Pump & Definition",
+        "Exercises": [
+          {
+            "Exercise": "Hammer Curls",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Pec Deck Flys",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Preacher Curls",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Front Dumbbell Raises",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      },
+      {
+        "SectionName": "Section 4: Bodyweight & Burnout Finishers",
+        "Exercises": [
+          {
+            "Exercise": "Chest Dips",
+            "Sets_Reps": "5 Total Sets (To failure)",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Concentration Curls",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Push-Ups",
+            "Sets_Reps": "5 Total Sets (To failure)",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Cable Bicep Curls",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      }
+    ]
   },
   {
     "Day": "Tuesday",
-    "focus": "Back + Triceps",
-    "exercise": "Deadlift, Pull-Ups, Bent-Over Rows, Lat Pulldown, Seated Cable Row, Skull Crushers, Tricep Dips, Overhead Tricep Extension, Cable Tricep Pushdowns"
+    "Focus": "Legs + Abs",
+    "Sections": [
+      {
+        "SectionName": "Section 1: Lower Body Power",
+        "Exercises": [
+          {
+            "Exercise": "Barbell Back Squats",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Romanian Deadlifts",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Leg Press",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Hanging Leg Raises",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      },
+      {
+        "SectionName": "Section 2: Unilateral Strength & Core",
+        "Exercises": [
+          {
+            "Exercise": "Bulgarian Split Squats",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps (Per leg)",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Walking Lunges",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps (Total steps)",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Ab Rollouts",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Russian Twists",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      },
+      {
+        "SectionName": "Section 3: Leg Isolation Pump",
+        "Exercises": [
+          {
+            "Exercise": "Leg Extensions",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Lying Leg Curls",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Goblet Squats",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Bicycle Crunches",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      },
+      {
+        "SectionName": "Section 4: Lower Leg & Stability Finisher",
+        "Exercises": [
+          {
+            "Exercise": "Hip Thrusts",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Standing Calf Raises",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Plank Variations",
+            "Sets_Reps": "5 Sets x 45-60 Second Hold",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Hanging Knee Raises",
+            "Sets_Reps": "5 Total Sets (To failure)",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      }
+    ]
   },
   {
     "Day": "Wednesday",
-    "focus": "Legs + Abs",
-    "exercise": "Squats, Lunges, Leg Press, Leg Extensions, Lying Leg Curls, Standing Calf Raises, Hanging Leg Raises, Plank Variations, Russian Twists"
+    "Focus": "Back + Triceps + Shoulders",
+    "Sections": [
+      {
+        "SectionName": "Section 1: Heavy Power Compounds",
+        "Exercises": [
+          {
+            "Exercise": "Deadlift",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Pull-Ups or Lat Pulldowns",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Skull Crushers",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Barbell Military Press",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      },
+      {
+        "SectionName": "Section 2: Row & Press Density",
+        "Exercises": [
+          {
+            "Exercise": "Bent-Over Barbell Rows",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Close-Grip Bench Press",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Seated Cable Rows",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Dumbbell Shrugs",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      },
+      {
+        "SectionName": "Section 3: Extension & Width Isolation",
+        "Exercises": [
+          {
+            "Exercise": "T-Bar Rows or Dumbbell Rows",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Overhead Cable Tricep Extensions",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Straight-Arm Lat Pulldowns",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Dumbbell Face Pulls or Rear Delt Flys",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      },
+      {
+        "SectionName": "Section 4: Tricep & Back Burnout",
+        "Exercises": [
+          {
+            "Exercise": "Tricep Dips",
+            "Sets_Reps": "5 Total Sets (To failure)",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Cable Tricep Pushdowns",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Diamond Push-Ups",
+            "Sets_Reps": "5 Total Sets (To failure)",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Tricep Kickbacks",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      }
+    ]
   },
   {
     "Day": "Thursday",
-    "focus": "Chest + Biceps",
-    "exercise": "Weighted Push-Ups, Chest Dips, Dumbbell Flys, Incline Bench Press, Pec Deck Flys, Concentration Curl, Incline Dumbbell Curl, Cable Bicep Curls, Zottman Curls"
+    "Focus": "Chest + Biceps + Shoulders",
+    "Sections": [
+      {
+        "SectionName": "Section 1: Heavy Push & Pull Compounds",
+        "Exercises": [
+          {
+            "Exercise": "Barbell Bench Press",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Incline Dumbbell Press",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Barbell Bicep Curls",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Standing Dumbbell Overhead Press",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      },
+      {
+        "SectionName": "Section 2: Volume & Shape Builders",
+        "Exercises": [
+          {
+            "Exercise": "Decline Dumbbell Press",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Incline Dumbbell Bicep Curls",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Cable Chest Flys",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Dumbbell Lateral Raises",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      },
+      {
+        "SectionName": "Section 3: Targeted Pump & Definition",
+        "Exercises": [
+          {
+            "Exercise": "Hammer Curls",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Pec Deck Flys",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Preacher Curls",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Front Dumbbell Raises",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      },
+      {
+        "SectionName": "Section 4: Bodyweight & Burnout Finishers",
+        "Exercises": [
+          {
+            "Exercise": "Chest Dips",
+            "Sets_Reps": "5 Total Sets (To failure)",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Concentration Curls",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Push-Ups",
+            "Sets_Reps": "5 Total Sets (To failure)",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Cable Bicep Curls",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      }
+    ]
   },
   {
     "Day": "Friday",
-    "focus": "Back + Triceps",
-    "exercise": "Lat Pulldown, T-Bar Row, Seated Cable Row, Straight-Arm Pulldown, Dumbbell Shrugs, Overhead Tricep Extension, Close-Grip Bench Press, Diamond Push-Ups, Kickbacks"
+    "Focus": "Legs + Abs",
+    "Sections": [
+      {
+        "SectionName": "Section 1: Lower Body Power",
+        "Exercises": [
+          {
+            "Exercise": "Barbell Back Squats",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Romanian Deadlifts",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Leg Press",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Hanging Leg Raises",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      },
+      {
+        "SectionName": "Section 2: Unilateral Strength & Core",
+        "Exercises": [
+          {
+            "Exercise": "Bulgarian Split Squats",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps (Per leg)",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Walking Lunges",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps (Total steps)",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Ab Rollouts",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Russian Twists",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      },
+      {
+        "SectionName": "Section 3: Leg Isolation Pump",
+        "Exercises": [
+          {
+            "Exercise": "Leg Extensions",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Lying Leg Curls",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Goblet Squats",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Bicycle Crunches",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      },
+      {
+        "SectionName": "Section 4: Lower Leg & Stability Finisher",
+        "Exercises": [
+          {
+            "Exercise": "Hip Thrusts",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Standing Calf Raises",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Plank Variations",
+            "Sets_Reps": "5 Sets x 45-60 Second Hold",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Hanging Knee Raises",
+            "Sets_Reps": "5 Total Sets (To failure)",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      }
+    ]
   },
   {
     "Day": "Saturday",
-    "focus": "Legs + Abs",
-    "exercise": "Romanian Deadlift, Bulgarian Split Squat, Calf Raises, Goblet Squats, Hip Thrusts, Ab Rollouts, Russian Twists, Bicycle Crunches, Hanging Knee Raises"
+    "Focus": "Back + Triceps + Shoulders",
+    "Sections": [
+      {
+        "SectionName": "Section 1: Heavy Power Compounds",
+        "Exercises": [
+          {
+            "Exercise": "Rack Pulls",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Pull-Ups or Lat Pulldowns",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Skull Crushers",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Barbell Military Press",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      },
+      {
+        "SectionName": "Section 2: Row & Press Density",
+        "Exercises": [
+          {
+            "Exercise": "Bent-Over Barbell Rows",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Close-Grip Bench Press",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Seated Cable Rows",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Dumbbell Shrugs",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      },
+      {
+        "SectionName": "Section 3: Extension & Width Isolation",
+        "Exercises": [
+          {
+            "Exercise": "T-Bar Rows or Dumbbell Rows",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Overhead Cable Tricep Extensions",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Straight-Arm Lat Pulldowns",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Dumbbell Face Pulls or Rear Delt Flys",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      },
+      {
+        "SectionName": "Section 4: Tricep & Back Burnout",
+        "Exercises": [
+          {
+            "Exercise": "Tricep Dips",
+            "Sets_Reps": "5 Total Sets (To failure)",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Cable Tricep Pushdowns",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Diamond Push-Ups",
+            "Sets_Reps": "5 Total Sets (To failure)",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Tricep Kickbacks",
+            "Sets_Reps": "3 Sets x 25 Reps + 2 Sets x 15 Reps",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      }
+    ]
   },
   {
     "Day": "Sunday",
-    "focus": "Rest / Recovery",
-    "exercise": "Light cardio, foam rolling, yoga, static stretching, mobility drills, deep breathing, hydration, walking, active recovery sleep"
+    "Focus": "Rest / Recovery",
+    "Sections": [
+      {
+        "SectionName": "Recovery Plan",
+        "Exercises": [
+          {
+            "Exercise": "Light cardio / walking / active recovery sleep",
+            "Sets_Reps": "As needed",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Foam rolling / static stretching / yoga",
+            "Sets_Reps": "As needed",
+            "Points": 10,
+            "Completed": "[ ]"
+          },
+          {
+            "Exercise": "Mobility drills / deep breathing / hydration",
+            "Sets_Reps": "As needed",
+            "Points": 10,
+            "Completed": "[ ]"
+          }
+        ]
+      }
+    ]
   }
 ]
 
-      

@@ -1,6 +1,5 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import recipe from "../Pages/recipe";
 
 function Navigation() {
   return (
@@ -20,16 +19,22 @@ function Navigation() {
           Timetable
         </NavLink>
     
-       <NavLink 
+        <NavLink 
           to="/recipe" 
           className={({ isActive }) => isActive ? "nav-link active" : "nav-link"}
         >
           Cooking
         </NavLink>
-
+        
+        <NavLink 
+          to="/Dashboard" 
+          className={({ isActive }) => isActive ? "nav-link active" : "nav-link"}
+        >
+          Calorie 
+        </NavLink>
       </div>
     </nav>
-  );``
+  );
 }
 
 export default Navigation;

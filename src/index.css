@@ -1,28 +1,33 @@
-body{
+body {
+  background-color: rgb(11, 0, 22);
+  font-family: "Raleway", sans-serif;
+  font-weight: 290;
+  color: #fff;
+  margin: 0;
+  min-height: 100vh;
+}
 
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100dvh;
+  z-index: -1;
   background:
     linear-gradient(40deg, rgb(11, 0, 22) 40%, transparent 90%),
     linear-gradient(90deg, rgb(34, 0, 34) 40%, transparent 90%),
     linear-gradient(140deg, rgb(0, 1, 44) 40%, rgb(223, 160, 0) 90%);
-
   background-repeat: no-repeat;  
   background-position: center;   
   background-size: cover;        
-  background-attachment: fixed;   
-  font-family: "Raleway", sans-serif;
-  font-weight:290;
-  color:#fff;
-
 }
 
 h1 {
   text-align: center;
   font-weight: 900;
   font-size: 2.2rem;
-}
-
-.container {
-  padding: 1rem;
 }
 
 input, select, .submit-btn {
@@ -34,7 +39,7 @@ input, select, .submit-btn {
 }
 
 input {
-  background: #370075;
+  background: #2a005a79;
   border: none;
   color: #ffffff;
   padding: 10px;
@@ -44,32 +49,76 @@ input {
 select {
   padding: 10px;
   margin: 10px 0;           
-  border: 1px solid #ccc;    
-  background-color: #e2e2e2;
+  background-color: #4f00aa79;
+  color:#fff;
+  justify-content: center;
+  align-items: center;
+  border:none;
   font-size: 16px; 
+}
+
+table {
+  width: 100%;
+  max-width: 800px;
+  margin: 3rem auto; 
+  border-collapse: separate;
+  border-spacing: 0;
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(85, 0, 182, 0.3);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+th, td {
+  padding: 16px 24px;
+  text-align: left;
+}
+
+th {
+  font-weight: 700;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+}
+
+tr {
+  transition: background-color 0.2s ease;
+}
+
+tr:not(:last-child) td {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
 
 .submit-btn {
   margin-top: 20px;
   color: #ffffff;
-  background: #370075;
+  background: linear-gradient(40deg, rgb(48, 0, 95) 40%, transparent 90%),
+              linear-gradient(90deg, rgb(34, 0, 34) 40%, transparent 90%),
+              linear-gradient(140deg, rgb(0, 1, 44) 40%, rgb(126, 90, 0) 90%);
   border: none;
   font-weight: 600;
   cursor: pointer;
 }
 
-.card-container {
+.container {
+  padding: 1rem;
+}
+
+.card-container, .card-container1 {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   gap: 15px;
 }
 
-.card {
+.card, .card1 {
   border: 1px solid #370075;
   padding: 15px;
   border-radius: 12px;
   background: #0707072f;
   backdrop-filter: blur(10px);
+  width: 50%;
 }
 
 .nav-container {
@@ -86,10 +135,111 @@ select {
   max-width: 85%;
   z-index: 5;
 } 
-
+.exercise-points{
+  text-align: right;
+}
 .nav-container a {
   text-decoration: none; 
   color: #ffffff;       
   padding: 0 10px;
   font-size: 0.9rem;
+}
+
+@media (hover: hover) {
+  tr:hover {
+    background-color: rgba(52, 0, 112, 0.15);
+  }
+}
+
+.daycell {
+  font-weight: 600;
+  color: #dfa000; 
+  width: 30%;
+}
+
+.focus-cell {
+  color: #ffffff;
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 0.9rem;
+    min-height: 100dvh; 
+    margin: 0 auto;            
+  }
+  table {
+    margin: 2rem auto;
+    width: 100%;
+  }
+
+  th, td {
+    padding: 12px 16px;
+    font-size: 0.85rem;
+  }
+
+  .daycell {
+    width: 35%;
+  }
+
+  h1 {
+    font-size: 1.6rem;
+  }
+
+  input, select, .submit-btn {
+    height: 30px;
+    font-size: 0.7rem;
+  }
+
+  .card-container1 {
+    display: flex;
+    flex-direction: row;   
+    flex-wrap: wrap;       
+    gap: 20px;
+    align-items: stretch;  
+  }
+
+  .card-container1 .card1 {
+    flex: 1 1 calc(50% - 10px); 
+    max-width: calc(50% - 10px);
+    box-sizing: border-box;
+    font-size: 0.6rem;
+  }
+  .card-container {
+    margin:-1rem;
+  } 
+  .card {
+    width: 100%;
+  }
+
+  .card1 {
+    flex: 1;              
+    height: auto;          
+  }
+
+  .nav-container {
+    bottom: calc(10px + env(safe-area-inset-bottom));
+    padding: 8px 16px;
+    max-width: 95%;
+    font-size: 0.8rem;
+    position: fixed;
+  }
+
+  .nav-container a {
+    padding: 0 6px;
+    font-size: 0.8rem;
+  }
+
+  .container, .cookbook-container {
+    padding-bottom: 90px;
+  }
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield; 
 }

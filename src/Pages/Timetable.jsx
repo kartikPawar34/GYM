@@ -10,14 +10,12 @@ function Timetable(){
           <tr>
             <th>Day</th>
             <th>Focus</th>
-            <th>Exercises</th>
           </tr>
           <tbody>
             {constantUpdate.map((item, index)=>(
               <tr key={index}>
                 <td className="daycell">{item.Day}</td>
-                <td className="focus-cell">{item.focus}</td>
-                <td className="exercise-cell">{item.exercise}</td>
+                <td className="focus-cell">{item.Focus}</td>
               </tr>
             ))}
           </tbody>
