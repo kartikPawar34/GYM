@@ -1,0 +1,70 @@
+{
+  "chest": [
+    { "name": "Barbell Bench Press", "calPerRep": 0.7 },
+    { "name": "Incline Dumbbell Press", "calPerRep": 0.6 },
+    { "name": "Decline Dumbbell Press", "calPerRep": 0.6 },
+    { "name": "Cable Chest Flys", "calPerRep": 0.5 },
+    { "name": "Pec Deck Flys", "calPerRep": 0.5 },
+    { "name": "Chest Dips", "calPerRep": 0.8 },
+    { "name": "Push-Ups", "calPerRep": 0.5 }
+  ],
+  "back": [
+    { "name": "Deadlift", "calPerRep": 1.2 },
+    { "name": "Rack Pulls", "calPerRep": 1.0 },
+    { "name": "Pull-Ups or Lat Pulldowns", "calPerRep": 0.8 },
+    { "name": "Bent-Over Barbell Rows", "calPerRep": 0.7 },
+    { "name": "Seated Cable Rows", "calPerRep": 0.6 },
+    { "name": "T-Bar Rows or Dumbbell Rows", "calPerRep": 0.7 },
+    { "name": "Straight-Arm Lat Pulldowns", "calPerRep": 0.5 }
+  ],
+  "shoulders": [
+    { "name": "Standing Dumbbell Overhead Press", "calPerRep": 0.6 },
+    { "name": "Barbell Military Press", "calPerRep": 0.7 },
+    { "name": "Dumbbell Lateral Raises", "calPerRep": 0.4 },
+    { "name": "Front Dumbbell Raises", "calPerRep": 0.4 },
+    { "name": "Dumbbell Face Pulls or Rear Delt Flys", "calPerRep": 0.5 },
+    { "name": "Dumbbell Shrugs", "calPerRep": 0.3 }
+  ],
+  "biceps": [
+    { "name": "Barbell Bicep Curls", "calPerRep": 0.4 },
+    { "name": "Incline Dumbbell Bicep Curls", "calPerRep": 0.4 },
+    { "name": "Hammer Curls", "calPerRep": 0.4 },
+    { "name": "Preacher Curls", "calPerRep": 0.4 },
+    { "name": "Concentration Curls", "calPerRep": 0.3 },
+    { "name": "Cable Bicep Curls", "calPerRep": 0.3 }
+  ],
+  "triceps": [
+    { "name": "Skull Crushers", "calPerRep": 0.5 },
+    { "name": "Close-Grip Bench Press", "calPerRep": 0.6 },
+    { "name": "Overhead Cable Tricep Extensions", "calPerRep": 0.4 },
+    { "name": "Tricep Dips", "calPerRep": 0.7 },
+    { "name": "Cable Tricep Pushdowns", "calPerRep": 0.4 },
+    { "name": "Diamond Push-Ups", "calPerRep": 0.5 },
+    { "name": "Tricep Kickbacks", "calPerRep": 0.3 }
+  ],
+  "legs": [
+    { "name": "Barbell Back Squats", "calPerRep": 0.9 },
+    { "name": "Romanian Deadlifts", "calPerRep": 0.8 },
+    { "name": "Leg Press", "calPerRep": 0.7 },
+    { "name": "Bulgarian Split Squats", "calPerRep": 0.8 },
+    { "name": "Walking Lunges", "calPerRep": 0.7 },
+    { "name": "Goblet Squats", "calPerRep": 0.6 },
+    { "name": "Leg Extensions", "calPerRep": 0.5 },
+    { "name": "Lying Leg Curls", "calPerRep": 0.5 },
+    { "name": "Hip Thrusts", "calPerRep": 0.8 },
+    { "name": "Standing Calf Raises", "calPerRep": 0.3 }
+  ],
+  "core": [
+    { "name": "Hanging Leg Raises", "calPerRep": 0.5 },
+    { "name": "Hanging Knee Raises", "calPerRep": 0.4 },
+    { "name": "Ab Rollouts", "calPerRep": 0.6 },
+    { "name": "Russian Twists", "calPerRep": 0.3 },
+    { "name": "Bicycle Crunches", "calPerRep": 0.3 },
+    { "name": "Plank Variations", "calPerRep": 0.05 }
+  ],
+  "recovery": [
+    { "name": "Light Cardio / Walking", "calPerRep": 0.1 },
+    { "name": "Foam Rolling / Stretching", "calPerRep": 0.05 },
+    { "name": "Yoga / Mobility Drills", "calPerRep": 0.1 }
+  ]
+}

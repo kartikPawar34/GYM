@@ -27,7 +27,7 @@ function Navigation() {
         </NavLink>
         
         <NavLink 
-          to="/Dashboard" 
+          to="/Tools" 
           className={({ isActive }) => isActive ? "nav-link active" : "nav-link"}
         >
           Calorie 

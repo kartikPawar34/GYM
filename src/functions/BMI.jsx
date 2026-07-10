@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function BMI() {
+function BMI({ onCalculate }) {
   const [weight, setWeight] = useState(""); 
   const [height, setHeight] = useState(""); 
   const [bmi, setBmi] = useState(null);
@@ -9,6 +9,7 @@ function BMI() {
     if (weight && height) {
       const result = (weight / (height * height)).toFixed(2);
       setBmi(result);
+      if (onCalculate) onCalculate(result); 
     }
   };
 

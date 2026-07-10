@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function TDEE() {
+function TDEE({ onCalculate }) {
   const [bmr, setBmr] = useState("");
   const [activity, setActivity] = useState("sedentary");
   const [tdee, setTdee] = useState(null);
@@ -15,8 +15,9 @@ function TDEE() {
 
   const calculateTDEE = () => {
     if (bmr) {
-      const result = bmr * activityFactors[activity];
-      setTdee(result.toFixed(2));
+      const result = (bmr * activityFactors[activity]).toFixed(2);
+      setTdee(result);
+      if (onCalculate) onCalculate(result); 
     }
   };
 

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function BMR() {
+function BMR({ onCalculate }) {
   const [weight, setWeight] = useState("");
   const [height, setHeight] = useState("");
   const [age, setAge] = useState("");
@@ -15,7 +15,9 @@ function BMR() {
       } else {
         result = (10 * weight) + (6.25 * height) - (5 * age) - 161;
       }
-      setBmr(result.toFixed(2));
+      const formattedResult = result.toFixed(2);
+      setBmr(formattedResult);
+      if (onCalculate) onCalculate(formattedResult);
     }
   };
 
