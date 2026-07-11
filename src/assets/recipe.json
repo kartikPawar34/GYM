@@ -16,7 +16,7 @@
         },
         "recipes": [
             {
-                "category": "Super Smoothies",
+                "category": "Smoothies",
                 "name": "Mango Smoothie",
                 "description": "Smoothies are an amazing \"go to\" snack! Add a splash of orange juice to this one for an extra tropical flavor! Did you know that one cup of diced mango has 100% of your daily need for vitamin C, 35% of vitamin A and 20% of an important B vitamin called folate?",
                 "ingredients": [
@@ -38,7 +38,7 @@
                 }
             },
             {
-                "category": "Super Smoothies",
+                "category": "Smoothies",
                 "name": "Choco Peanut Butter Power Smoothie",
                 "description": "This delicious combination of flavors is a great way to start the day, have on hand as a power snack or end the day with a yummy, healthy treat! Using plain Greek yogurt adds extra protein and helps bring out the chocolate flavor!",
                 "ingredients": [
@@ -58,7 +58,7 @@
                 }
             },
             {
-                "category": "Super Smoothies",
+                "category": "Smoothies",
                 "name": "Strawberry Banana Smoothie",
                 "description": "Bananas are such a valuable ingredient. They are the secret to a sweet, creamy and nutritious smoothie. Go bananas for this classic combo of strawberry and banana!",
                 "ingredients": [
@@ -88,7 +88,7 @@
                 }
             },
             {
-                "category": "Super Smoothies",
+                "category": "Smoothies",
                 "name": "Piña Colada",
                 "description": "Everyday can feel like a tropical paradise with this scrumptious smoothie! Great for a pre workout snack, make it a post workout snack by adding greek yogurt or a protein powder.",
                 "ingredients": [
@@ -116,7 +116,7 @@
                 }
             },
             {
-                "category": "Super Smoothies",
+                "category": "Smoothies",
                 "name": "Green Island Getaway",
                 "description": "For an extra sweet flavor use a frozen, ripe banana. Ripe bananas are perfect for smoothies, so don't throw them out. To make it easier for later use, peel bananas before freezing them in a freezer safe storage bag.",
                 "ingredients": [
@@ -992,7 +992,7 @@
                 }
             },
             {
-                "category": "Energy on the Go",
+                "category": "Energy",
                 "name": "Anar & Strawberry Curd Parfait",
                 "description": "A beautifully layered, calcium-rich recipe featuring seasonal Indian fruits like pomegranate (anar) and bananas, paired with high-fiber whole grain cereals and rich curd.",
                 "ingredients": [
@@ -1013,6 +1013,141 @@
                         "carbohydrate_g": 24,
                         "protein_g": 12
                     }
+                }
+            },{
+                "category": "Energy on the Go",
+                "name": "Almond & Date Power Bites",
+                "description": "A natural, sugar-free energy burst perfect for an active Indian lifestyle. This mix combines iron-rich dates with brain-boosting almonds to give you a clean, non-heavy fuel source right before your yoga session or gym workout.",
+                "ingredients": [
+                "10 soft dates (Khajur), pitted",
+                "20 whole almonds (Badam)",
+                "2 tsp. flaxseeds (Alsi)",
+                "1/2 tsp. ground cardamom (Elaichi) powder"
+                ],
+                "directions": [
+                "Pulse the almonds and flaxseeds in a mixer until coarsely chopped.",
+                "Add the pitted dates and cardamom powder, then pulse until the mixture binds together like a dough.",
+                "Form into 10 even, one-inch balls and consume immediately or store in an airtight container."
+                ],
+                "nutrition": {
+                "yield": "10 energy bites",
+                "per_bite": {
+                    "carbohydrate_g": 9,
+                    "protein_g": 2
+                }
+                }
+            },
+            {
+                "category": "High Protein Recovery",
+                "name": "Spicy Paneer Bhurji",
+                "description": "The perfect post-workout vegetarian muscle recovery meal. Fresh Indian cottage cheese (Paneer) provides high-quality, bioavailable dairy protein to repair worn-out muscle tissues quickly.",
+                "ingredients": [
+                "100g low-fat paneer, crumbled",
+                "1 small onion, finely chopped",
+                "1 small tomato, finely chopped",
+                "1 green chili, finely chopped",
+                "1/2 tsp. turmeric (Haldi) powder",
+                "1/2 tsp. cumin seeds (Jeera)",
+                "1 tsp. cooking oil",
+                "Fresh coriander leaves for garnish",
+                "Salt to taste"
+                ],
+                "directions": [
+                "Heat oil in a pan and splutter the cumin seeds.",
+                "Saute the chopped onions and green chilies for 2 minutes until translucent.",
+                "Add tomatoes and turmeric powder, cooking until soft.",
+                "Crumble the paneer directly into the pan, season with salt, and toss well for 2 to 3 minutes.",
+                "Garnish with fresh coriander leaves and serve warm."
+                ],
+                "nutrition": {
+                "yield": "1 serving",
+                "per_serving": {
+                    "carbohydrate_g": 6,
+                    "protein_g": 18
+                }
+                }
+            },
+            {
+                "category": "Energy on the Go",
+                "name": "Sattu Hydration Fuel",
+                "description": "Known as the original Indian powerhouse drink, roasted chana sattu provides sustained energy and cools down the body system. Ideal as a light, non-bloating pre-workout drink.",
+                "ingredients": [
+                "4 Tbsp. roasted chana sattu",
+                "2 cups cold water",
+                "1 Tbsp. lemon juice",
+                "1/2 tsp. black salt (Kala Namak)",
+                "1/4 tsp. roasted cumin (Jeera) powder",
+                "2-3 mint leaves (Pudina), torn"
+                ],
+                "directions": [
+                "Add sattu to a shaker or a deep jug.",
+                "Pour in cold water slowly while whisking continuously to prevent lumps.",
+                "Stir in the lemon juice, black salt, and roasted cumin powder.",
+                "Drop in torn mint leaves, stir well, and drink fresh."
+                ],
+                "nutrition": {
+                "yield": "2 servings",
+                "per_serving": {
+                    "carbohydrate_g": 14,
+                    "protein_g": 5
+                }
+                }
+            },
+            {
+                "category": "High Protein Recovery",
+                "name": "Oats & Moong Dal Cheela",
+                "description": "A complex carbohydrate and plant-based protein powerhouse designed to replenish your body's glycogen reserves after an intense gym session.",
+                "ingredients": [
+                "1/2 cup instant oats, ground into flour",
+                "4 Tbsp. yellow moong dal flour (or Besan)",
+                "2 Tbsp. low-fat curd",
+                "1/4 cup finely chopped spinach (Palak)",
+                "1/2 tsp. grated ginger",
+                "A pinch of asafoetida (Hing)",
+                "Water as needed for batter",
+                "Salt to taste"
+                ],
+                "directions": [
+                "In a bowl, whisk oats flour, moong dal flour, curd, ginger, hing, and salt.",
+                "Gradually add water to form a smooth, pourable pancake batter consistency.",
+                "Fold in the chopped spinach leaves.",
+                "Pour a ladleful onto a hot, lightly greased non-stick tawa, spreading it into a thin circle.",
+                "Cook for 2 minutes on each side until crisp and golden brown."
+                ],
+                "nutrition": {
+                "yield": "3 small cheelas",
+                "per_cheela": {
+                    "carbohydrate_g": 11,
+                    "protein_g": 4
+                }
+                }
+            },
+            {
+                "category": "High Protein Recovery",
+                "name": "Tangy Sprouts Chaat",
+                "description": "A live-enzyme packed fitness snack. Steamed moong sprouts combine with crunch and tang to deliver clean vegetarian fiber, vitamins, and lean recovery macros.",
+                "ingredients": [
+                "1 1/2 cups sprouted green moong dal, lightly steamed",
+                "2 Tbsp. roasted peanuts",
+                "1/4 cup chopped cucumber",
+                "1/4 cup chopped tomato",
+                "1 Tbsp. fresh lemon juice",
+                "1/2 tsp. chaat masala",
+                "Salt to taste"
+                ],
+                "directions": [
+                "Steam the green moong sprouts for 3 to 5 minutes so they are cooked but still crunchy.",
+                "Transfer sprouts to a mixing bowl and let them cool down slightly.",
+                "Toss in the cucumber, tomato, and roasted peanuts.",
+                "Drizzle lemon juice and sprinkle chaat masala and salt.",
+                "Mix thoroughly and enjoy immediately as a refreshing recovery snack."
+                ],
+                "nutrition": {
+                "yield": "2 servings",
+                "per_serving": {
+                    "carbohydrate_g": 16,
+                    "protein_g": 8
+                }
                 }
             }
         ]

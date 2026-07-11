@@ -76,8 +76,8 @@
 }
 
 .recipe-card {
-  background: #160d22;
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: #0000002a;
+  border: 1px solid rgb(52, 0, 110);
   border-radius: 16px;
   padding: 24px;
   cursor: pointer;
@@ -89,7 +89,7 @@
 
 .recipe-card:hover {
   transform: translateY(-4px);
-  border-color: rgba(255, 255, 255, 0.4);
+  border-color: goldenrod;
 }
 
 .recipe-tag {

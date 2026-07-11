@@ -12,7 +12,7 @@ function ProgressBar({ earned, total }) {
         <strong>Daily Progress</strong>
         <span>{earned} / {total} pts ({percentage}%)</span>
       </div>
-      <div className="progress-track" style={{ width: "100%", height: "10px", backgroundColor: "#333", borderRadius: "5px", overflow: "hidden" }}>
+      <div className="progress-track" style={{ width: "100%", height: "20px", backgroundColor: "#333", borderRadius: "5px", overflow: "hidden" }}>
         <div 
           className="progress-fill" 
           style={{ 
@@ -54,24 +54,23 @@ function WorkoutSection({ section, completedExercises, toggleExercise }) {
                 <input 
                   type="checkbox" 
                   checked={isCompleted} 
-                  onChange={() => toggleExercise(exerciseId, ex.Points)}
+                  onChange={() => toggleExercise(exerciseId)}
                   style={{
-                          marginRight: "12px",
-                          width: "18px",
-                          height: "18px",
-                          cursor: "pointer",
-                          border: "2px solid purple",
-                          backgroundColor: "transparent",
-                          color: "purple"
-                        }}
-
+                    marginRight: "12px",
+                    width: "18px",
+                    height: "18px",
+                    cursor: "pointer",
+                    border: "2px solid purple",
+                    backgroundColor: "transparent",
+                    color: "purple"
+                  }}
                 />
                 <div className="exercise-details" style={{ textDecoration: isCompleted ? "line-through" : "none" }}>
                   <strong className="exercise-name">{ex.Exercise}</strong> :- {ex.Sets_Reps}
                   <span className="exercise-points" style={{ marginLeft: "8px", color: "#4CAF50" }}>
                     ({ex.Points} pts)
                   </span>
-                </div>                           
+                </div>                          
               </label>
             </p>
           );
@@ -93,29 +92,27 @@ function Dashboard() {
   const [activeSectionIndex, setActiveSectionIndex] = useState(0);
   const totalSections = todaysWorkout?.Sections?.length || 0;
 
-  // --- STATE FOR TRACKING POINTS & COMPLETION ---
+  // --- STATE FOR TRACKING COMPLETION ONLY ---
   const [completedExercises, setCompletedExercises] = useState({});
-  const [earnedPoints, setEarnedPoints] = useState(0);
 
-  // Calculate the maximum possible points for today's entire workout dynamically
+  // 1. Dynamically calculate the maximum possible points for today's workout
   const totalPossiblePoints = todaysWorkout?.Sections?.reduce((sum, section) => {
     return sum + section.Exercises.reduce((secSum, ex) => secSum + (Number(ex.Points) || 0), 0);
   }, 0) || 0;
 
-  const toggleExercise = (exerciseId, points) => {
-    const pts = Number(points) || 0;
+  // 2. Dynamically calculate the earned points directly from completedExercises state
+  const earnedPoints = todaysWorkout?.Sections?.reduce((sum, section) => {
+    return sum + section.Exercises.reduce((secSum, ex, exIdx) => {
+      const exerciseId = `${section.SectionName}-${ex.Exercise}-${exIdx}`;
+      return secSum + (completedExercises[exerciseId] ? (Number(ex.Points) || 0) : 0);
+    }, 0);
+  }, 0) || 0;
 
-    setCompletedExercises((prev) => {
-      const isChecking = !prev[exerciseId];
-      
-      // Update running total points simultaneously
-      setEarnedPoints((prevPoints) => isChecking ? prevPoints + pts : prevPoints - pts);
-      
-      return {
-        ...prev,
-        [exerciseId]: isChecking
-      };
-    });
+  const toggleExercise = (exerciseId) => {
+    setCompletedExercises((prev) => ({
+      ...prev,
+      [exerciseId]: !prev[exerciseId]
+    }));
   };
 
   const nextSection = () => {
@@ -138,7 +135,6 @@ function Dashboard() {
               <div className="section-slider-wrapper" style={{ display: "flex", flexDirection: "column", flexGrow: 1 }}>
                 
                 <div className="content-body" style={{ flexGrow: 1 }}>
-                  {/* Pass tracking states and handler props down */}
                   <WorkoutSection 
                     section={todaysWorkout.Sections[activeSectionIndex]} 
                     completedExercises={completedExercises}
@@ -146,10 +142,7 @@ function Dashboard() {
                   />
                 </div>
 
-                {/* Fixed Footer Container containing both Navigation Arrows and the Progress Bar */}
                 <div className="footer-controls" style={{ marginTop: "auto", paddingTop: "20px" }}>
-                  
-                  {/* Arrow Navigation Row */}
                   {totalSections > 1 && (
                     <div 
                       className="section-navigation" 
