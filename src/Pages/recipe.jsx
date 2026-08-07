@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import cookbookData from "../assets/recipe.json"; 
-import "./Cookbook.css";
+import "./CookBook.css"
 
 function Cookbook() {
   const [recipes] = useState(cookbookData.sections?.recipes || []);

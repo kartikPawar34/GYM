@@ -1,0 +1,149 @@
+[
+    {
+        "Focusing": "Chest / Biceps",
+        "Exercises": {
+            "Upper Body (Push/Chest)": [
+                "Chest Press",
+                "Push-Up",
+                "Triangle Push-Up",
+                "Incline Dumbbell Press",
+                "Barbell Flat Bench Press"
+            ],
+            "Upper Body (Pull/Arms)": [
+                "Biceps Curl",
+                "Biceps Curl Crossover",
+                "Hammer Curls"
+            ],
+            "Stretches": [
+                "Chest & Pectoral Stretch"
+            ]
+        }
+    },
+    {
+        "Focusing": "Back / Triceps",
+        "Exercises": {
+            "Upper Body (Pull/Back)": [
+                "Lat Pulldown",
+                "Bent-Over Row",
+                "Upright Pull",
+                "Pullover",
+                "Cable Face Pulls",
+                "Meadows Row",
+                "Pull-Ups",
+                "Australian / Inverted Rows"
+            ],
+            "Upper Body (Push/Arms)": [
+                "Triceps Dip",
+                "Overhead Cable Triceps Extension",
+                "Parallel Bar Dips"
+            ],
+            "Stretches": [
+                "Upper Back Stretch",
+                "Oblique & Lat Stretch"
+            ]
+        }
+    },
+    {
+        "Focusing": "Legs / Abs",
+        "Exercises": {
+            "Lower Body (Strength)": [
+                "Squat",
+                "Deadlift",
+                "Reverse Lunge",
+                "Hip Thrust",
+                "Bulgarian Split Squats",
+                "Romanian Deadlifts (RDL)",
+                "Barbell Back Squat"
+            ],
+            "Core / Abdominals": [
+                "Wood Chop",
+                "V-Sit Oblique Rotation",
+                "Upright Plank",
+                "Side Plank",
+                "Leg Drop",
+                "Dead Bug",
+                "Hanging Leg / Knee Raises",
+                "Ab Wheel Rollouts"
+            ],
+            "Stretches": [
+                "Glute Medius Stretch",
+                "Hip Flexor Stretch",
+                "Calf Stretch",
+                "Hamstring Stretch",
+                "Quad Stretch"
+            ]
+        }
+    },
+    {
+        "Focusing": "Shoulders / Arms",
+        "Exercises": {
+            "Upper Body (Shoulders)": [
+                "T-Raise",
+                "Split Stance Front Raise",
+                "Overhead Shoulder Press",
+                "Lateral Raises",
+                "Pike Push-Ups",
+                "Strict Overhead Barbell Press"
+            ],
+            "Upper Body (Arms)": [
+                "Biceps Curl",
+                "Hammer Curls",
+                "Triceps Dip",
+                "Overhead Cable Triceps Extension"
+            ],
+            "Stretches": [
+                "Shoulder Stretch"
+            ]
+        }
+    },
+    {
+        "Focusing": "Upper Body Hypertrophy",
+        "Exercises": {
+            "Upper Body (Chest & Back)": [
+                "Incline Dumbbell Press",
+                "Pause Bench Press",
+                "Lat Pulldown",
+                "Bent-Over Row",
+                "Ring Flies",
+                "Muscle-Ups"
+            ],
+            "Upper Body (Shoulders & Arms)": [
+                "Lateral Raises",
+                "Cable Face Pulls",
+                "Biceps Curl Crossover",
+                "Parallel Bar Dips"
+            ],
+            "Full-Body Integration": [
+                "Heavy Farmer's Walk",
+                "Landmine Rotations"
+            ]
+        }
+    },
+    {
+        "Focusing": "Lower Body & Core Conditioning",
+        "Exercises": {
+            "Lower Body (Cardio/Agility/Plyo)": [
+                "Fast Feet",
+                "Speed Skating",
+                "High Knees",
+                "Box Jumps (Plyometrics)",
+                "Hill Sprints",
+                "Sled Push / Drag",
+                "Assault Bike Sprints"
+            ],
+            "Core & Full-Body": [
+                "Burpee",
+                "Jumping Jack",
+                "Bear Crawls",
+                "Kettlebell Swings",
+                "Burpee Box Jump-Overs",
+                "Sledgehammer Tire Strikes"
+            ],
+            "Stretches": [
+                "Glute Medius Stretch",
+                "Hip Flexor Stretch",
+                "Hamstring Stretch"
+            ]
+        }
+    }
+]
